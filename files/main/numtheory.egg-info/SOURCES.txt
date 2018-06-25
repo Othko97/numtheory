@@ -1,0 +1,10 @@
+README
+setup.py
+../src/numtheory.egg-info/PKG-INFO
+../src/numtheory.egg-info/SOURCES.txt
+../src/numtheory.egg-info/dependency_links.txt
+../src/numtheory.egg-info/top_level.txt
+numtheory.egg-info/PKG-INFO
+numtheory.egg-info/SOURCES.txt
+numtheory.egg-info/dependency_links.txt
+numtheory.egg-info/top_level.txt

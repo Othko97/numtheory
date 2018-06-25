@@ -1,0 +1,15 @@
+[
+  "src/tests/test_quadirrational.py::test_addition",
+  "src/tests/test_quadirrational.py::test_subtraction",
+  "src/tests/test_rational.py::test_addition",
+  "src/tests/test_rational.py::test_subtraction",
+  "src/tests/test_rational.py::test_multiplication",
+  "src/tests/test_rational.py::test_division",
+  "src/tests/test_rational.py::test_exponentiation",
+  "src/tests/test_simplecontfrac.py::test_representation",
+  "src/tests/test_simplecontfrac.py::test_addition",
+  "src/tests/test_simplecontfrac.py::test_subtraction",
+  "src/tests/test_simplecontfrac.py::test_multiplication",
+  "src/tests/test_simplecontfrac.py::test_divide",
+  "src/tests/test_simplecontfrac.py::test_neg"
+]

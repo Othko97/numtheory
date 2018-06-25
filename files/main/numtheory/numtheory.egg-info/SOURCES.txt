@@ -1,0 +1,10 @@
+README
+setup.py
+src/PeriodicContFrac.py
+src/QuadIrrational.py
+src/SimpleContFrac.py
+src/numtheory.py
+src/numtheory.egg-info/PKG-INFO
+src/numtheory.egg-info/SOURCES.txt
+src/numtheory.egg-info/dependency_links.txt
+src/numtheory.egg-info/top_level.txt

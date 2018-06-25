@@ -1,0 +1,6 @@
+README
+setup.py
+src/tests/numtheory.egg-info/PKG-INFO
+src/tests/numtheory.egg-info/SOURCES.txt
+src/tests/numtheory.egg-info/dependency_links.txt
+src/tests/numtheory.egg-info/top_level.txt
